@@ -24,10 +24,27 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181014140720.1" a="E"><vh>課程進度</vh>
+<v t="leo.20181014140720.2" a="E"><vh>week1</vh>
+<v t="leo.20181014140720.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20181014140720.4" a="E"><vh>week2</vh>
+<v t="leo.20181014140720.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20181014140720.6" a="E"><vh>week3</vh>
+<v t="leo.20181014140720.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20181014140831.1" a="E"><vh>week4</vh>
+<v t="leo.20181014140831.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20181014140837.1" a="E"><vh>week5</vh>
+<v t="leo.20181014140837.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181014140317.1"><vh>快捷鍵</vh>
+<v t="leo.20181014140317.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -129,30 +146,11 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [40623207](http://lab.kmol.info/)
+Created by [40623207](https://mdecadp2018.github.io/site-40623207/blog/index.html)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
 
-
-</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -325,6 +323,111 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181014140317.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181014140317.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20181014140720.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181014140720.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014140720.3">## Week 1
+
+* 大學就像是一個餐廳，不僅要吃，更要學習怎麼做
+* What is Onshape? Why Onshape?
+* 說明如何利用 p37 中的 git 建立個人的 Github Pages 網站
+
+
+</t>
+<t tx="leo.20181014140720.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181014140720.5">## Week 2
+
+* 說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲
+
+
+</t>
+<t tx="leo.20181014140720.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181014140720.7">## Week 3
+
+* 中秋節放假
+
+
+</t>
+<t tx="leo.20181014140831.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181014140831.2">## Week 4
+
+* 期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明
+* 學習使用 Onshape
+
+
+</t>
+<t tx="leo.20181014140837.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181014140837.2">## Week 5
+
+* 說明如何列出所使用 Python 版次與關鍵字
+* 從 Onshapeweek1 課程到 Onshapeweek2
 </t>
 </tnodes>
 </leo_file>
