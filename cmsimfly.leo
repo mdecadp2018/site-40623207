@@ -947,10 +947,12 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;script type="text/javascript" src="/static/gearUtils-05.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"&gt;&lt;/script&gt;
-'''
-
-
-</t>
+&lt;style&gt;
+img {
+    border: 2px solid blue;
+}
+&lt;/style&gt;
+'''</t>
 <t tx="amd.20160714232140.1"># 與 file_selector 搭配的取檔程式
 def downloadselect_access_list(files, starti, endi):
     """Accompanied with file_selector."""
@@ -2467,6 +2469,11 @@ init_mathjax();
 &lt;script type="text/javascript" src="./../static/gearUtils-05.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"&gt;&lt;/script&gt;
+&lt;style&gt;
+img {
+    border: 2px solid blue;
+}
+&lt;/style&gt;
 '''
 
 
