@@ -7,8 +7,8 @@ https://github.com/mdecadp2018/site-40623207
 
 設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
 
-cpgx 網站: https://mdecadp2018.github.io/site-40623207/content/index.html
+分組網站: https://mdecadp2018.github.io/site-40623207/content/index.html
 
-cpgx 網誌: https://mdecadp2018.github.io/site-40623207/blog/index.html
+Blog: https://mdecadp2018.github.io/site-40623207/blog/index.html
 
-cpgx 投影片: https://mdecadp2018.github.io/site-40623207/reveal/index.html#/
+投影片: https://mdecadp2018.github.io/site-40623207/reveal/index.html#/
