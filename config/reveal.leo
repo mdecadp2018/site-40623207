@@ -40,6 +40,9 @@
 <v t="leo.20181014140837.1" a="E"><vh>week5</vh>
 <v t="leo.20181014140837.2"><vh>內容</vh></v>
 </v>
+<v t="leo.20181015105910.1" a="E"><vh>week6</vh>
+<v t="leo.20181015105910.2"><vh>內容</vh></v>
+</v>
 </v>
 <v t="leo.20181014140317.1"><vh>快捷鍵</vh>
 <v t="leo.20181014140317.2"><vh>投影片快捷鍵</vh></v>
@@ -428,6 +431,21 @@ make.start()
 
 * 說明如何列出所使用 Python 版次與關鍵字
 * 從 Onshapeweek1 課程到 Onshapeweek2
+</t>
+<t tx="leo.20181015105910.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015105910.2">## Week 6
+
+* 以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程
+* 說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py
+
 </t>
 </tnodes>
 </leo_file>
