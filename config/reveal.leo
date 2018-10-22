@@ -43,6 +43,9 @@
 <v t="leo.20181015105910.1" a="E"><vh>week6</vh>
 <v t="leo.20181015105910.2"><vh>內容</vh></v>
 </v>
+<v t="leo.20181022112319.1" a="E"><vh>week7</vh>
+<v t="leo.20181022112319.2"><vh>內容</vh></v>
+</v>
 </v>
 <v t="leo.20181014140317.1"><vh>快捷鍵</vh>
 <v t="leo.20181014140317.2"><vh>投影片快捷鍵</vh></v>
@@ -365,7 +368,7 @@ make.start()
 <t tx="leo.20181014140720.3">## Week 1
 
 * 大學就像是一個餐廳，不僅要吃，更要學習怎麼做
-* What is Onshape? Why Onshape?
+* What is Onshape? / Why Onshape?
 * 說明如何利用 p37 中的 git 建立個人的 Github Pages 網站
 
 
@@ -383,8 +386,8 @@ make.start()
 </t>
 <t tx="leo.20181014140720.5">## Week 2
 
-* 說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲
-
+* 說明如何以 ShareX 取圖
+* 期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明
 
 </t>
 <t tx="leo.20181014140720.6">&lt;section data-markdown&gt;
@@ -413,8 +416,7 @@ make.start()
 </t>
 <t tx="leo.20181014140831.2">## Week 4
 
-* 期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明
-* 學習使用 Onshape
+* 學習使用 Onshape, 並簡單繪製圖形, 熟悉操作方法
 
 
 </t>
@@ -429,7 +431,6 @@ make.start()
 </t>
 <t tx="leo.20181014140837.2">## Week 5
 
-* 說明如何列出所使用 Python 版次與關鍵字
 * 從 Onshapeweek1 課程到 Onshapeweek2
 </t>
 <t tx="leo.20181015105910.1">&lt;section data-markdown&gt;
@@ -445,7 +446,22 @@ make.start()
 
 * 以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程
 * 說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py
+* 說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排
+</t>
+<t tx="leo.20181022112319.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+						
+</t>
+<t tx="leo.20181022112319.2">## Week 7
+
+* 說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料
+* 說明在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程
+* 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM
 </t>
 </tnodes>
 </leo_file>
