@@ -2,29 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623207/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623207/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623207/blog/</id><updated>2018-10-22T11:00:00+08:00</updated><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623207/blog/2018-Fall-Project-Blog_7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料&lt;/p&gt;
+&lt;p&gt;說明在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程&lt;/p&gt;
+&lt;p&gt;說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM&lt;/p&gt;
 &lt;h2&gt;教學影片&lt;/h2&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=KiXEszwLXO0&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=KiXEszwLXO0"&gt;https://www.youtube.com/watch?v=KiXEszwLXO0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料&lt;/p&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=WEsFrcuffOA&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=WEsFrcuffOA"&gt;https://www.youtube.com/watch?v=WEsFrcuffOA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 說明在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程&lt;/p&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=JA75HIMhIgk&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=JA75HIMhIgk"&gt;https://www.youtube.com/watch?v=JA75HIMhIgk&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623207/blog/2018-Fall-Project-Blog_6.html</id><summary type="html">&lt;p&gt;做為工程師，不只要會找答案 ，也要會問問題。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;做為工程師，不只要會找答案 ，也要會問問題。&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程&lt;/p&gt;
+&lt;p&gt;說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py&lt;/p&gt;
+&lt;p&gt;Lab-Booking-CDLab 內容管理系統 :&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mdecdlab.github.io/lab-booking-cdlab/doc/content/index.html"&gt;https://mdecdlab.github.io/lab-booking-cdlab/doc/content/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;教學影片&lt;/h2&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=6ULAecjorvU&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6ULAecjorvU"&gt;https://www.youtube.com/watch?v=6ULAecjorvU&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程&lt;/p&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=mH_tW3erBqs&lt;/p&gt;
-&lt;p&gt;↑ 說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py&lt;/p&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=i0zDhlxAJmk&lt;/p&gt;
-&lt;p&gt;↑ 說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623207/blog/2018-Fall-Project-Blog_5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mH_tW3erBqs"&gt;https://www.youtube.com/watch?v=mH_tW3erBqs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;↑ 說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623207/blog/2018-Fall-Project-Blog_5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;從 Onshapeweek1 課程到 Onshapeweek2 .&lt;/p&gt;
 &lt;h2&gt;教學影片&lt;/h2&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=GE48pZWK8vI&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GE48pZWK8vI"&gt;https://www.youtube.com/watch?v=GE48pZWK8vI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 從 Onshapeweek1 課程到 Onshapeweek2&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623207/blog/2018-Fall-Project-Blog_4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
@@ -34,9 +39,9 @@
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;已經利用 Settings 將內定 branch 設為 gh-pages, git clone 作業倉儲至近端後, 著手將練習 Onshape 的各項過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中 .&lt;/p&gt;
-&lt;p&gt;各學員學會如何管理各自位於 https://github.com/mdecadp2018/ 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中 .&lt;/p&gt;
+&lt;p&gt;各學員學會如何管理各自位於 &lt;a href="https://github.com/mdecadp2018/"&gt;https://github.com/mdecadp2018/&lt;/a&gt; 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中 .&lt;/p&gt;
 &lt;h2&gt;教學影片&lt;/h2&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=q_1Ht6CLPWA&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=q_1Ht6CLPWA"&gt;https://www.youtube.com/watch?v=q_1Ht6CLPWA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623207/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
@@ -55,14 +60,14 @@
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;根據 Github Pages 說明, 建立個人課程網頁 學號.github.io git clone到近端 .
-git clone https://github.com/mdecourse/2018fall 至近端, 以 scrum-2 帳號錄製教學影片, 示範如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌 (近端檢視, 遠端加入 disqus 討論區連結) .&lt;/p&gt;
-&lt;p&gt;http://mde.tw/cadp2018/content/OnshapeWeek%201.html 內容導引 .&lt;/p&gt;
-&lt;p&gt;登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業 .&lt;/p&gt;
+git clone &lt;a href="https://github.com/mdecourse/2018fall"&gt;https://github.com/mdecourse/2018fall&lt;/a&gt; 至近端, 以 scrum-2 帳號錄製教學影片, 示範如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌 (近端檢視, 遠端加入 disqus 討論區連結) .&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://mde.tw/cadp2018/content/OnshapeWeek%201.html"&gt;http://mde.tw/cadp2018/content/OnshapeWeek%201.html&lt;/a&gt; 內容導引 .&lt;/p&gt;
+&lt;p&gt;登入 Github 帳號後, 連結至 &lt;a href="https://classroom.github.com/a/fGqXU9kO"&gt;https://classroom.github.com/a/fGqXU9kO&lt;/a&gt; 以領取個人的期中作業 .&lt;/p&gt;
 &lt;p&gt;What is Onshape? / Why Onshape?&lt;/p&gt;
 &lt;h2&gt;教學影片&lt;/h2&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=ax2ZuPm3YXc&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ax2ZuPm3YXc"&gt;https://www.youtube.com/watch?v=ax2ZuPm3YXc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 說明如何利用 p37 中的 git 建立個人的 Github Pages 網站&lt;/p&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=sD9slKyFNao&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sD9slKyFNao"&gt;https://www.youtube.com/watch?v=sD9slKyFNao&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 說明如何管理個人的期中作業網站內容&lt;/p&gt;
-&lt;p&gt;https://www.youtube.com/watch?v=3SR7vom0YA8&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3SR7vom0YA8"&gt;https://www.youtube.com/watch?v=3SR7vom0YA8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 說明如何管理期中作業倉儲中的網際投影片&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
