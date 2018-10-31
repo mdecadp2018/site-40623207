@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623207/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623207/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623207/blog/</id><updated>2018-10-22T11:00:00+08:00</updated><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623207/blog/2018-Fall-Project-Blog_7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623207/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623207/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623207/blog/</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>Week 8</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623207/blog/2018-Fall-Project-Blog_8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;說明機電資整合設計專案流程所需的相關套件運用與技術 .&lt;/p&gt;
+&lt;p&gt;截至目前在 Onshape 只是進行機械元件零組件的設計繪製, 接下來的電子感測與電機控制, 以及資訊套件與機電模型間的控制訊號傳送, 將成為另一重點 .&lt;/p&gt;
+&lt;p&gt;當設計者在 Onshape 完成系統的零組件設計繪製後, 通常採用 STL 格式的組立檔輸入 V-rep, 之後將各零件拆解後, 根據各傳動軸的配置進行運動系統模型的建構 .&lt;/p&gt;
+&lt;p&gt;接下來再根據運動約束, 以 Lua 或 Python 驅動各軸, 完成初步的運動模擬後, 再設法導入諸如 PyQuino 的控制訊號傳輸套件, 以連結虛擬或實體機電系統模型 .&lt;/p&gt;
+&lt;p&gt;其中牽涉 Arduino 控制板程式模擬部分, 將採用 TinkerCAD 完成, 制動器則將採用小型步進或伺服馬達完成 .&lt;/p&gt;
+&lt;h2&gt;教學影片&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yAzfQm2gBEQ"&gt;https://www.youtube.com/watch?v=yAzfQm2gBEQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;↑ 說明機電資整合設計專案流程所需的相關套件運用與技術&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623207/blog/2018-Fall-Project-Blog_7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料&lt;/p&gt;
@@ -16,8 +26,8 @@
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程&lt;/p&gt;
-&lt;p&gt;說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py&lt;/p&gt;
+&lt;p&gt;以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程 .&lt;/p&gt;
+&lt;p&gt;說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py,  並且利用 Leo Editor 的 @auto 節點指令與 @clean 節點指令, 重新配置 cmsimfly.leo 開發專案檔 .&lt;/p&gt;
 &lt;p&gt;Lab-Booking-CDLab 內容管理系統 :&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://mdecdlab.github.io/lab-booking-cdlab/doc/content/index.html"&gt;https://mdecdlab.github.io/lab-booking-cdlab/doc/content/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;教學影片&lt;/h2&gt;
