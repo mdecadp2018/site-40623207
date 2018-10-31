@@ -46,6 +46,9 @@
 <v t="leo.20181022112319.1" a="E"><vh>week7</vh>
 <v t="leo.20181022112319.2"><vh>內容</vh></v>
 </v>
+<v t="leo.20181031221551.1" a="E"><vh>week8</vh>
+<v t="leo.20181031221551.2"><vh>內容</vh></v>
+</v>
 </v>
 <v t="leo.20181014140317.1"><vh>快捷鍵</vh>
 <v t="leo.20181014140317.2"><vh>投影片快捷鍵</vh></v>
@@ -444,9 +447,10 @@ make.start()
 </t>
 <t tx="leo.20181015105910.2">## Week 6
 
+* 做為工程師，不只要會找答案 ，也要會問問題
 * 以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程
 * 說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py
-* 說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排
+
 </t>
 <t tx="leo.20181022112319.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -463,5 +467,17 @@ make.start()
 * 說明在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程
 * 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM
 </t>
+<t tx="leo.20181031221551.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181031221551.2">## Week 8
+
+* 說明機電資整合設計專案流程所需的相關套件運用與技術</t>
 </tnodes>
 </leo_file>
