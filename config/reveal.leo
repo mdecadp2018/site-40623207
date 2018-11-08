@@ -49,6 +49,9 @@
 <v t="leo.20181031221551.1" a="E"><vh>week8</vh>
 <v t="leo.20181031221551.2"><vh>內容</vh></v>
 </v>
+<v t="leo.20181108222758.1" a="E"><vh>week9</vh>
+<v t="leo.20181108222758.2"><vh>內容</vh></v>
+</v>
 </v>
 <v t="leo.20181014140317.1"><vh>快捷鍵</vh>
 <v t="leo.20181014140317.2"><vh>投影片快捷鍵</vh></v>
@@ -478,6 +481,24 @@ make.start()
 </t>
 <t tx="leo.20181031221551.2">## Week 8
 
-* 說明機電資整合設計專案流程所需的相關套件運用與技術</t>
+* 說明機電資整合設計專案流程所需的相關套件運用與技術
+
+</t>
+<t tx="leo.20181108222758.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108222758.2">## Week 9
+
+* 打自評成績
+* 進行期末專案分組
+* 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+
+</t>
 </tnodes>
 </leo_file>

@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623207/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623207/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623207/blog/</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>Week 8</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623207/blog/2018-Fall-Project-Blog_8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>Week 9</title><link href="./2018-Fall-Project-Blog_9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2018-11-05:./2018-Fall-Project-Blog_9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;期中考週 - 打自評成績&lt;/p&gt;
+&lt;p&gt;進行期末專案分組&lt;/p&gt;
+&lt;p&gt;說明如何利用 Github Classroom 進行期末分組專題倉儲的設定&lt;/p&gt;
+&lt;p&gt;步驟一 : Github Classroom 管理員在 mdecadp2018 建立 finalproject 協同作業, 建立後得到能讓各組員參與分組的作業連結&lt;/p&gt;
+&lt;p&gt;步驟二 : 組長登入 Github 後, 點選分組作業連結後, 建立各分組  team, 並完成分組倉儲的設定, mdecadp2018/finalproject-bg1 ~ bg8&lt;/p&gt;
+&lt;p&gt;步驟三 : 各組員登入 Github, 點選分組作業連結, 依照組序加入各組對應的 team.&lt;/p&gt;
+&lt;h2&gt;教學影片&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=4i1D5rIrkAM"&gt;https://www.youtube.com/watch?v=4i1D5rIrkAM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;↑ 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 8</title><link href="./2018-Fall-Project-Blog_8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog_8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;說明機電資整合設計專案流程所需的相關套件運用與技術 .&lt;/p&gt;
@@ -9,7 +20,7 @@
 &lt;p&gt;其中牽涉 Arduino 控制板程式模擬部分, 將採用 TinkerCAD 完成, 制動器則將採用小型步進或伺服馬達完成 .&lt;/p&gt;
 &lt;h2&gt;教學影片&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yAzfQm2gBEQ"&gt;https://www.youtube.com/watch?v=yAzfQm2gBEQ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;↑ 說明機電資整合設計專案流程所需的相關套件運用與技術&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623207/blog/2018-Fall-Project-Blog_7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;↑ 說明機電資整合設計專案流程所需的相關套件運用與技術&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="./2018-Fall-Project-Blog_7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog_7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料&lt;/p&gt;
@@ -21,7 +32,7 @@
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=WEsFrcuffOA"&gt;https://www.youtube.com/watch?v=WEsFrcuffOA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 說明在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=JA75HIMhIgk"&gt;https://www.youtube.com/watch?v=JA75HIMhIgk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;↑ 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623207/blog/2018-Fall-Project-Blog_6.html</id><summary type="html">&lt;p&gt;做為工程師，不只要會找答案 ，也要會問問題。&lt;/p&gt;
+&lt;p&gt;↑ 說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="./2018-Fall-Project-Blog_6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2018-10-15:./2018-Fall-Project-Blog_6.html</id><summary type="html">&lt;p&gt;做為工程師，不只要會找答案 ，也要會問問題。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;做為工程師，不只要會找答案 ，也要會問問題。&lt;/p&gt;
 
 
@@ -34,25 +45,25 @@
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6ULAecjorvU"&gt;https://www.youtube.com/watch?v=6ULAecjorvU&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;↑ 以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mH_tW3erBqs"&gt;https://www.youtube.com/watch?v=mH_tW3erBqs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;↑ 說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623207/blog/2018-Fall-Project-Blog_5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;↑ 說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="./2018-Fall-Project-Blog_5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2018-10-08:./2018-Fall-Project-Blog_5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;從 Onshapeweek1 課程到 Onshapeweek2 .&lt;/p&gt;
 &lt;h2&gt;教學影片&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GE48pZWK8vI"&gt;https://www.youtube.com/watch?v=GE48pZWK8vI&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;↑ 從 Onshapeweek1 課程到 Onshapeweek2&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623207/blog/2018-Fall-Project-Blog_4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;↑ 從 Onshapeweek1 課程到 Onshapeweek2&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="./2018-Fall-Project-Blog_4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog_4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;學習使用 Onshape, 並簡單繪製圖形, 熟悉操作方法 .&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623207/blog/2018-Fall-Project-Blog_3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;學習使用 Onshape, 並簡單繪製圖形, 熟悉操作方法 .&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="./2018-Fall-Project-Blog_3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2018-09-24:./2018-Fall-Project-Blog_3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;中秋節放假~&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-09-17:/site-40623207/blog/2018-Fall-Project-Blog_2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;中秋節放假~&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="./2018-Fall-Project-Blog_2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2018-09-17:./2018-Fall-Project-Blog_2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;已經利用 Settings 將內定 branch 設為 gh-pages, git clone 作業倉儲至近端後, 著手將練習 Onshape 的各項過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中 .&lt;/p&gt;
 &lt;p&gt;各學員學會如何管理各自位於 &lt;a href="https://github.com/mdecadp2018/"&gt;https://github.com/mdecadp2018/&lt;/a&gt; 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中 .&lt;/p&gt;
 &lt;h2&gt;教學影片&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=q_1Ht6CLPWA"&gt;https://www.youtube.com/watch?v=q_1Ht6CLPWA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;↑ 說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623207/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;↑ 說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -64,7 +75,7 @@
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40623207/blog/2018-Fall-Project-Blog_1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623207/blog/2018-Fall-Project-Blog_1.html</id><summary type="html">&lt;p&gt;大學就像是一個餐廳，不僅要吃，更要學習怎麼做的更好吃。&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="./2018-Fall-Project-Blog_1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623207</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog_1.html</id><summary type="html">&lt;p&gt;大學就像是一個餐廳，不僅要吃，更要學習怎麼做的更好吃。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;大學就像是一個餐廳，不僅要吃，更要學習怎麼做的更好吃。&lt;/p&gt;
 
 
