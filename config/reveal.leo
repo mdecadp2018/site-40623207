@@ -24,7 +24,28 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181014140720.1" a="E"><vh>課程進度</vh>
+<v t="leo.20190107000957.1" a="E"><vh>期末簡報</vh>
+<v t="leo.20190107000957.2" a="E"><vh>week1-3</vh>
+<v t="leo.20190107000957.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190107000957.4" a="E"><vh>week4-6</vh>
+<v t="leo.20190107000957.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20190107000957.6" a="E"><vh>week7-9</vh>
+<v t="leo.20190107000957.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20190107000957.8" a="E"><vh>week10-12</vh>
+<v t="leo.20190107000957.9"><vh>內容</vh></v>
+</v>
+<v t="leo.20190107000957.10" a="E"><vh>week13-15</vh>
+<v t="leo.20190107000957.11"><vh>內容</vh></v>
+</v>
+<v t="leo.20190107000957.12" a="E"><vh>week16-17</vh>
+<v t="leo.20190107000957.13"><vh>內容</vh></v>
+</v>
+<v t="leo.20190107000957.14"><vh>結論</vh></v>
+</v>
+<v t="leo.20181014140720.1"><vh>課程進度</vh>
 <v t="leo.20181014140720.2" a="E"><vh>week1</vh>
 <v t="leo.20181014140720.3"><vh>內容</vh></v>
 </v>
@@ -53,10 +74,11 @@
 <v t="leo.20181108222758.2"><vh>內容</vh></v>
 </v>
 </v>
+<v t="leo.20190107000957.15"><vh>內容</vh></v>
 <v t="leo.20181014140317.1"><vh>快捷鍵</vh>
 <v t="leo.20181014140317.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -498,6 +520,120 @@ make.start()
 * 打自評成績
 * 進行期末專案分組
 * 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+
+</t>
+<t tx="leo.20190107000957.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107000957.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107000957.11">## Week 13 - 15
+
+* 利用 MikTeX 與 Pandoc , 以非同步協同編輯的流程建立各組的專案報告
+* 將 MCAD 設計繪圖零組件轉進 V-rep , 並設定 IK 運算
+* 利用 Markdown、pandoc 與 LaTeX , 建立協同期末報告</t>
+<t tx="leo.20190107000957.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107000957.13">## Week 16 - 17
+
+* 解決 PDF 出現的問題
+* 在投影片放上圖片</t>
+<t tx="leo.20190107000957.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107000957.15">## 結論
+
+在製做專題時 , 發現許多事不是自己一個人做得好的 , 必須與組員分工合作完成 , 尤其是在有限的時間內要完成的 , 出現問題時與組員討論 , 解決問題 , 最後合力將專題完成。</t>
+<t tx="leo.20190107000957.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190107000957.3">## Week 1 - 3
+
+* 大學就像是一個餐廳，不僅要吃，更要學習怎麼做得更好吃
+* 利用倉儲維護網站
+* 管理倉儲中的 CMSimfly , Reveal 和 Pelican Blog 
+* 利用 Leo 在網站上將圖片加上邊框 , 並修改顏色和粗細
+
+
+</t>
+<t tx="leo.20190107000957.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190107000957.5">## Week 4 - 6
+
+* 做為工程師，不只要會找答案 ，也要會問問題
+* 使用 Onshape, 簡單繪製圖形, 熟悉操作方法
+* 升級最新的 CMSimfly 倉儲中的 flaskapp.py
+</t>
+<t tx="leo.20190107000957.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107000957.7">## Week 7 - 9
+
+* 利用 Github Classroom 進行期末分組專題倉儲的設定
+* 進行期末專案分組
+
+
+</t>
+<t tx="leo.20190107000957.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107000957.9">## Week 10 - 12
+
+* 利用 Heroku 雲端服務 , 伺服各分組的期末專題倉儲中的動態程式 , 並與 Github 倉儲內容保持自動
+* Onshape 各項功能
+* 在特定圖片加上邊框
+
 
 </t>
 </tnodes>
